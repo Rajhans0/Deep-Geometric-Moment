@@ -1,4 +1,4 @@
-# Code for paper Improving Shape Awareness and Interpretability in Deep Networks Using Geometric Moments
+# Code for paper [Improving Shape Awareness and Interpretability in Deep Networks Using Geometric Moments](https://arxiv.org/pdf/2205.11722.pdf)
 # Accepted at CVPR 2023 Workshop: Deep Learning for Geometric Computing
 
 Deep-Geometric-Moment ResNet-18 code for cifar datasets
